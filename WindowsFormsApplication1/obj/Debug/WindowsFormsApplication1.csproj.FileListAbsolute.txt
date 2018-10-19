@@ -1,0 +1,28 @@
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe.config
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.exe
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/bin/Debug/WindowsFormsApplication1.pdb
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Form1.resources
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.Properties.Resources.resources
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.GenerateResource.cache
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.exe
+/Users/dboyarskikh/GitRepos/calculator/WindowsFormsApplication1/obj/Debug/WindowsFormsApplication1.pdb
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dboyarskikh\GitHub\Calculator Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\dboyarskikh\GitHub\Calculator.Win.Mac\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
