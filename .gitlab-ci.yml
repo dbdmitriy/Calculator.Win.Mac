@@ -1,12 +1,22 @@
-windows job:
+stages:
+  - build
+  - production
 
+job_build:
   stage: build
-  
   tags:
     - windows
-    
   script:
     - Build.bat
-    
   only:
     - tags
+
+job_production:
+  stage: production
+  tags:
+    - windows
+  script:
+    - Build.bat
+  only:
+    - tags
+  when: on_success
