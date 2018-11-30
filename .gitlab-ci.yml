@@ -6,7 +6,7 @@ windows job:
     - windows
     
   script:
-    - echo Hello, %USERNAME%!
+    - Build.bat
     
   only:
     - tags
