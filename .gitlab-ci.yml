@@ -7,3 +7,6 @@ windows job:
     
   script:
     - echo Hello, %USERNAME%!
+    
+  only:
+    - tags
