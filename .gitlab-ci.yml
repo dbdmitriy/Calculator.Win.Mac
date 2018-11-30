@@ -1,6 +1,9 @@
 windows job:
+
   stage: build
+  
   tags:
     - windows
+    
   script:
     - echo Hello, %USERNAME%!
