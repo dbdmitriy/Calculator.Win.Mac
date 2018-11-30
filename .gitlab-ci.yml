@@ -1,0 +1,12 @@
+windows job:
+
+  stage: build
+  
+  tags:
+    - windows
+    
+  script:
+    - Build.bat
+    
+  only:
+    - tags
