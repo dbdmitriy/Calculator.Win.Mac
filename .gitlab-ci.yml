@@ -1,6 +1,5 @@
 windows job:
-  stage:
-    - build
+  stage: build
   tags:
     - windows
   script:
