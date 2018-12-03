@@ -7,7 +7,7 @@ job_build:
   tags:
     - windows
   script:
-    - Build.bat
+    - echo Hello, %USERNAME%!
   only:
     - tags
 
@@ -16,7 +16,7 @@ job_production:
   tags:
     - windows
   script:
-    - Build.bat
+    - echo Hello, %USERNAME%!
   only:
     - tags
   when: on_success
