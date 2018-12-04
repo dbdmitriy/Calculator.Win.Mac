@@ -1,22 +1,5 @@
-stages:
-  - build
-  - production
-
-job_build:
-  stage: build
-  tags:
-    - windows
+Windows:
   script:
     - echo Hello, %USERNAME%!
-  only:
-    - tags
-
-job_production:
-  stage: production
   tags:
     - windows
-  script:
-    - echo Hello, %USERNAME%!
-  only:
-    - tags
-  when: on_success
