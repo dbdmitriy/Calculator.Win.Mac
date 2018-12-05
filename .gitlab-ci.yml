@@ -1,6 +1,5 @@
 Windows:
   script:
-    - dir
     - call Build.bat
   tags:
     - windows
