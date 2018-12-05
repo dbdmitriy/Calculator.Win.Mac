@@ -1,5 +1,5 @@
-CalculatorApp - Test Jenkins
-=============
+CalculatorApp - Test Jenkins build triggering
+=============================================
 
 This is a calculator assignment for a 4000-level Windows Programming class. I created this repository because I've found that having the ability to roll back to a previous version of a Visual Studio project is invaluable. There is something about the clunkiness of Windows Forms that engenders obfuscated control layouts and if you're trying to have a tight design (very common in Objective-C applications but I fear less so in C#) then this is an issue. Hence version control.
 
